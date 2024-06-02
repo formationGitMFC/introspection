@@ -15,7 +15,7 @@
 
 ## Quel est l'avantage de posséder la copie du dernier état connu du dépôt distant stocké localement ? 
 
-    Ecrire la réponse ici
+    Ecrire la réponse ici 
 
 
 ## Comment collaboreriez-vous sans git ou github ? Cela serait-il plus difficile ou plus simple ?
